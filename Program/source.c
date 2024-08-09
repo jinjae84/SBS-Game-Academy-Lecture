@@ -68,16 +68,22 @@ void main()
 
 	int data1 = 12;
 	int data2 = 5;
-	const float init = 5.5f;
-	const float pi = 3.14f
+	const int data3 = 5;
+	const int data4 = 3;
+
+	int result1 = data1 + data2;
+	int result2 = data1 - 12;
+	int result3 = data2 * data3;
+	int result4 = 11 / data3;
+	int result5 = data3 % data4;
+
+	printf("%d\n", result1);
+	printf("%d\n", result2);
+	printf("%d\n", result3);
+	printf("%d\n", result4);
+	printf("%d\n", result5);
 
 	
-
-	printf("%d\n", data1 + data2);
-	printf("%f\n", data1 - 3.14);
-	printf("%f\n", data1 * init);
-	printf("%f\n", init / 3.14);
-	printf("%f\n", data1 % data2);
 
 
 #pragma endregion

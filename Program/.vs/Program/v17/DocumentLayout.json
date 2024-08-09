@@ -3,14 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\\uBA85\uC9C4\uC7AC\\Desktop\\SBS-Game-Academy-Lecture\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47C9B671-197B-4E41-8372-39CCD4BEF065}|Program.vcxproj|C:\\Users\\\uBA85\uC9C4\uC7AC\\Desktop\\SBS-Game-Academy-Lecture\\Program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{47C9B671-197B-4E41-8372-39CCD4BEF065}|Program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{47C9B671-197B-4E41-8372-39CCD4BEF065}|Program.vcxproj|C:\\Users\\\uBA85\uC9C4\uC7AC\\Desktop\\SBS-Game-Academy-Lecture\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47C9B671-197B-4E41-8372-39CCD4BEF065}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA221000-F398-4DC9-BA75-10E299C6FBA9}|..\\Class1th (Printf)\\Class1th (Printf).vcxproj|C:\\Users\\\uBA85\uC9C4\uC7AC\\Desktop\\SBS-Game-Academy-Lecture\\Class1th (Printf)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47C9B671-197B-4E41-8372-39CCD4BEF065}|Program.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UCRT\\STDIO.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,8 +32,7 @@
               "RelativeToolTip": "..\\Class1th (Printf)\\Source.c",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-09T11:34:37.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T11:34:37.001Z"
             },
             {
               "$type": "Document",
@@ -45,8 +44,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
               "ViewState": "AQIAAHICAAAAAAAAAAD4v4UCAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-09T11:28:22.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T11:28:22.889Z"
             },
             {
               "$type": "Document",
@@ -56,7 +54,7 @@
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "C:\\Users\\\uBA85\uC9C4\uC7AC\\Desktop\\SBS-Game-Academy-Lecture\\Program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAEsAAAAfAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-08-08T11:35:05.454Z",
               "EditorCaption": ""
