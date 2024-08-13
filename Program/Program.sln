@@ -5,9 +5,11 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Program", "Program.vcxproj", "{47C9B671-197B-4E41-8372-39CCD4BEF065}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class1th (Printf)", "..\Class1th (Printf)\Class1th (Printf).vcxproj", "{EA221000-F398-4DC9-BA75-10E299C6FBA9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 1th (Printf)", "..\Class1th (Printf)\Class1th (Printf).vcxproj", "{EA221000-F398-4DC9-BA75-10E299C6FBA9}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 2th (varable & constant)", "..\Class 2th (varable & constant)\Class 2th (varable & constant).vcxproj", "{28E56466-6D5B-4B60-9D47-B9A8D9D58C6E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 3th (Bit)", "..\Class 3th (Bit)\Class 3th (Bit).vcxproj", "{3EADEB85-312B-4072-8CF2-B266BC5B81A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,14 @@ Global
 		{28E56466-6D5B-4B60-9D47-B9A8D9D58C6E}.Release|x64.Build.0 = Release|x64
 		{28E56466-6D5B-4B60-9D47-B9A8D9D58C6E}.Release|x86.ActiveCfg = Release|Win32
 		{28E56466-6D5B-4B60-9D47-B9A8D9D58C6E}.Release|x86.Build.0 = Release|Win32
+		{3EADEB85-312B-4072-8CF2-B266BC5B81A2}.Debug|x64.ActiveCfg = Debug|x64
+		{3EADEB85-312B-4072-8CF2-B266BC5B81A2}.Debug|x64.Build.0 = Debug|x64
+		{3EADEB85-312B-4072-8CF2-B266BC5B81A2}.Debug|x86.ActiveCfg = Debug|Win32
+		{3EADEB85-312B-4072-8CF2-B266BC5B81A2}.Debug|x86.Build.0 = Debug|Win32
+		{3EADEB85-312B-4072-8CF2-B266BC5B81A2}.Release|x64.ActiveCfg = Release|x64
+		{3EADEB85-312B-4072-8CF2-B266BC5B81A2}.Release|x64.Build.0 = Release|x64
+		{3EADEB85-312B-4072-8CF2-B266BC5B81A2}.Release|x86.ActiveCfg = Release|Win32
+		{3EADEB85-312B-4072-8CF2-B266BC5B81A2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
