@@ -1,2 +1,4 @@
 ﻿  Source.c
+C:\Users\명진재\Desktop\SBS-Game-Academy-Lecture\Program\Source.c(43,6): warning C4133: '=': 'float *'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+C:\Users\명진재\Desktop\SBS-Game-Academy-Lecture\Program\Source.c(51,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
   Program.vcxproj -> C:\Users\명진재\Desktop\SBS-Game-Academy-Lecture\Program\x64\Debug\Program.exe
