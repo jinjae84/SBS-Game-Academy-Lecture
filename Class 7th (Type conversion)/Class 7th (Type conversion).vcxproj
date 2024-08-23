@@ -24,6 +24,7 @@
     <ProjectGuid>{00dfa643-64f6-4da8-b010-5e54c2c9fe55}</ProjectGuid>
     <RootNamespace>Class7thTypeconversion</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Class 7th (Type conversion)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
