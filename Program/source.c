@@ -27,6 +27,24 @@ int Calculator(int x, int y, int (*fptr)(int, int))
 	return fptr(x, y);
 }
 
+int MAX_LIFE = 5;
+
+void print_life(int life)
+{
+    for (int i = 0; i < MAX_LIFE; i++)
+    {
+        if (i < life)
+        {
+            printf("♥");
+        }
+        else
+        {
+            printf("♡");
+        }
+    }
+    printf("\n");
+}
+
 int main()
 {
 #pragma region 함수 포인터
@@ -71,19 +89,43 @@ int main()
 
 #pragma region UP - DOWN 게임
 
-	int life = 5;
+    int computer, player;
+    int life = MAX_LIFE;
 
-	srand(time(NULL));
+    srand(time(NULL));
+    computer = rand() % 50 + 1;
 
-	int radom = rand() % 50 + 1;
+    printf("Computer가 숫자를 선택했습니다.\n");
 
-	while (scanf_s != srand)
-	{
-		for (int i = 0; i < 5; i++)
-		{
-			printf("♥");
-		}
-	}
+    while (life > 0)
+    {
+        printf("현재 목숨: ");
+        print_life(life);
+
+        printf("숫자를 입력하세요 (1~50): ");
+        scanf_s("%d", &player);
+
+        if (player < computer) {
+            printf("Up\n");
+            life--;
+        }
+        else if (player > computer) {
+            printf("Down\n");
+            life--;
+        }
+        else
+        {
+            printf("Victory! 정답입니다.\n");
+            break;
+        }
+
+        if (life == 0) {
+            printf("Defeat. 모든 목숨을 잃었습니다.\n");
+        }
+    }
+
+    return 0;
+	   
 
 #pragma endregion
 
